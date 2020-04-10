@@ -1,1 +1,3 @@
-import pandas as pandas
+import pandas as pd
+import matplotlib as mp
+import tkinter as tk
